@@ -12,7 +12,6 @@ font-family: 'Roboto', sans-serif; */
 #testimonial-grid-container{
     padding: 5% 3%;
     max-width: 1440px;
-    border: 1px solid green;
 }
 #quote{
     position: absolute;
